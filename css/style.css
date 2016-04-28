@@ -1,0 +1,38 @@
+label {
+  margin-bottom: 10px;
+}
+.name {
+  width: 100px;
+}
+label.description {
+  margin-top: 10px;
+}
+textarea#description {
+  display: block;
+  width: 280px;
+  height: 100px;
+}
+input[type="submit"] {
+  margin-top: 20px;
+}
+
+li.card {
+  list-style-type: none;
+}
+.card-name, .card-description {
+  height: 100px;
+}
+
+.card-name {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-description {
+  font-size: 1em;
+  font-weight: bold;
+  display: none;
+}
+
+
